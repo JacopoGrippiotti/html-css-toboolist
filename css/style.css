@@ -39,3 +39,9 @@ main{
     border-radius: 10px;
 }
 
+.nav-bar{
+    height: 10%;
+    border-bottom: 7px solid #f6f6f6;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
