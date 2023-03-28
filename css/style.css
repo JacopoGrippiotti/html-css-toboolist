@@ -90,7 +90,12 @@ h2{
    font-weight:900;
 }
 
-.padding-main-sections{
+.padding-main{
     padding-top: 30px;
     padding-left: 55px;
+}
+
+.list-padding{
+    padding-top: 25px;
+    padding-left:55px;
 }
