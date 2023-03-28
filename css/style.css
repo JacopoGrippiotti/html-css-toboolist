@@ -24,7 +24,7 @@ h1{
 }
 
 .bg-gray{
-    background-color: lightgray;
+    background-color:#f6f8f9 ;
 }
 
 .bg-white{
@@ -32,9 +32,10 @@ h1{
 }
 
 main{
-    margin-left: 25%;
-    margin-right: 25%;
-    margin-top: 10%;
+    margin-left: 14%;
+    margin-right: 14%;
+    margin-top: 3%;
     height: 800px;
+    border-radius: 10px;
 }
 
