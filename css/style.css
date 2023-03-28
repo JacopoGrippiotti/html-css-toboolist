@@ -106,6 +106,7 @@ h2{
 li{
     font-size: 20px;
     color: black;
+    padding-top: 20px;
 }
 .text-gray{
     color:#d7dade
@@ -113,12 +114,12 @@ li{
 
 .list-pills{
     display: inline-block;
-    height: 30px;
-    border-radius: 6px;
-    padding-left: 4px;
+    height: 25px;
+    border-radius: 10px;
+    padding-left: 5px;
     padding-top: 4px;
     font-size: small;
-    width: 60px;
+    width: 70px;
     color: white;
  }
 
@@ -141,3 +142,4 @@ li{
 .bg-light-green{
     background-color:#b0c926 ;
 }
+
