@@ -6,15 +6,23 @@
 }
 
 header{
-    height: 90px;
-    background-color: aqua;
-    padding: 30px 10px 20px 10px;
+    height: 80px;
+    padding-top: 12px;
+    padding-left: 15px;
+    background-color: white;
 }
 
 #logo{
-    height: 50px;
+    height: 60px;
 }
 
 h1{
     display: inline-block;
+    font-size: 2.40em;
+    font-family: sans-serif;
+    font-weight:900;
+}
+
+.bg-gray{
+    background-color: lightgray;
 }
