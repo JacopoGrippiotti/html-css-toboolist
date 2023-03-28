@@ -37,6 +37,8 @@ main{
     margin-top: 3%;
     height: 800px;
     border-radius: 10px;
+    color: white;
+    font-size: small;
 }
 
 .nav-bar{
@@ -44,4 +46,39 @@ main{
     border-bottom: 7px solid #f6f6f6;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+}
+
+span{
+    display: inline-block;
+    height: 30px;
+    border-radius: 4px;
+    border: solid 2px;
+    padding-left: 4px;
+    padding-top: 4px;
+}
+
+.bg-blue{
+    background-color:#47adf1 ;
+}
+
+.gray-border{
+    border-color:#dce0e3 ;
+}
+
+.blue-border{
+    border-color: #47adf1;
+}
+
+.first-section-buttons{
+    padding-top: 30px;
+    padding-left: 55px;
+}
+
+.add-task{
+    width: 60px;
+}
+
+.add-section{
+    width: 80px;
+    color:#d7dade ;
 }
