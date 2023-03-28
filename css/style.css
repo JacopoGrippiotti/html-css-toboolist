@@ -30,3 +30,11 @@ h1{
 .bg-white{
     background-color: white;
 }
+
+main{
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10%;
+    height: 800px;
+}
+
