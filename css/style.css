@@ -70,11 +70,6 @@ span{
     border-color: #47adf1;
 }
 
-.first-section-buttons{
-    padding-top: 30px;
-    padding-left: 55px;
-}
-
 .add-task{
     width: 60px;
 }
@@ -82,4 +77,17 @@ span{
 .add-section{
     width: 80px;
     color:#d7dade ;
+}
+
+.new-task{
+    height: 20%;
+}
+
+h2{
+   color:#40444e ; 
+}
+
+.padding-main-sections{
+    padding-top: 30px;
+    padding-left: 55px;
 }
