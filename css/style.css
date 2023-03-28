@@ -49,7 +49,7 @@ main{
     border-top-right-radius: 10px;
 }
 
-span{
+.pills{
     display: inline-block;
     height: 30px;
     border-radius: 4px;
@@ -98,4 +98,8 @@ h2{
 .list-padding{
     padding-top: 25px;
     padding-left:55px;
+}
+
+.reversed-triangle{
+    font-size: 20px;
 }
