@@ -152,6 +152,7 @@ li{
     border-radius: 50%;
     border: 1px solid;
     background-color: white;
+    text-align: center;
 }
 
 .cross-mark{
@@ -163,6 +164,7 @@ li{
     border-radius: 50%;
     border: 1px solid;
     background-color: white;
+    text-align: center;
 }
 
 ul{
