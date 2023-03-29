@@ -36,9 +36,9 @@ main{
     margin-left: 14%;
     margin-right: 14%;
     margin-top: 3%;
-    height: 800px;
     border-radius: 10px;
     color: white;
+    height: 800px;
 }
 
 .nav-bar{
@@ -114,12 +114,9 @@ li{
 
 .list-pills{
     display: inline-block;
-    height: 25px;
     border-radius: 10px;
-    padding-left: 5px;
-    padding-top: 4px;
+    padding: .4rem .9rem;
     font-size: small;
-    width: 70px;
     color: white;
  }
 
