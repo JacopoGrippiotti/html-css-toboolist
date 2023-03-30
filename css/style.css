@@ -47,6 +47,8 @@ main{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     padding-bottom: 10px;
+    padding-top: 30px;
+    padding-left: 55px;
 }
 
 .pills{
@@ -90,10 +92,6 @@ h2{
    font-weight:900;
 }
 
-.padding-main{
-    padding-top: 30px;
-    padding-left: 55px;
-}
 
 .to-do-list{
     padding-top: 25px;
